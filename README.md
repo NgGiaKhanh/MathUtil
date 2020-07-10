@@ -10,4 +10,6 @@ this repository contains a simple Java application used to demonstrate the CI - 
 ## Connect me via:
 1. [GitHub](https://github.com/NgGiaKhanh)
 2. [Facebook](https://www.facebook.com/threeoil.nguyen/)
-3. [email](khanh3oil48@gmail.com)
+3. [Email](khanh3oil48@gmail.com)
+
+### FPT University
