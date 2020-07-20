@@ -44,7 +44,7 @@ public class MathUtilTest {
         // ta phai dung 1 chieu khac
         khanh.util.MathUtil.computeFactorial(-5); // ko sai assertEquals()
         
-        // dua -5 vao tham so, minh (dev tk ra ham cF() coi day la ca chon
+        // dua -5 vao tham so, minh (dev tk ra ham cF() coi day la ca chon)
         // dap vao mat ng dua con so -5 nay vao
         // bang cach nem ra ngoai le IllegalArgumentException
     }
